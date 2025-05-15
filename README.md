@@ -88,6 +88,7 @@ pip install face_recognition
 
 - Click "Start Attendance" to activate the webcam and begin recognition.
 - Click "View Recent Attendance" to see the last 10 records.
+- A .xlsx file is automatically generated that stores the attendance record when "View Recent Attendance" is clicked.
 - Attendance is automatically saved to the local SQLite database.
 
 ## 📦 Output
