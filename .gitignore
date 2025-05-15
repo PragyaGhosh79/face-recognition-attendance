@@ -1,0 +1,8 @@
+# .gitignore
+__pycache__/
+*.db
+*.xlsx
+*.pyc
+*.pyo
+*.log
+.env
